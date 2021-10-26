@@ -1,6 +1,6 @@
 package edu.nwmissouri.zoo05group;
 
-public class App {
+public class ZooApp {
     
     public static void main(String[] args) {
     }
